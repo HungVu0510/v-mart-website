@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "name": "Silky Smooth Beats",
+      "onSale": true,
+      "tags": ["Headphone", "People"],
+      "image": "https://images.pexels.com/photos/577769/pexels-photo-577769.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 200,
+      "salePrice": 150,
+      "ratings": 4.0
+    },
+    {
+      "id": 2,
+      "name": "Lady Luck Is Smiling",
+      "onSale": true,
+      "tags": ["Perfume", "Women"],
+      "image": "https://images.pexels.com/photos/6062560/pexels-photo-6062560.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 350,
+      "salePrice": 300,
+      "ratings": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Green Nike Zoom",
+      "onSale": true,
+      "tags": ["Nike", "Men"],
+      "image": "https://images.pexels.com/photos/1456706/pexels-photo-1456706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 105,
+      "salePrice": 90,
+      "ratings": 4.5
+    },
+    {
+      "id": 4,
+      "name": "New Home Living Room Set",
+      "onSale": false,
+      "tags": ["Home", "Pretty"],
+      "image": "https://images.pexels.com/photos/1571459/pexels-photo-1571459.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 100500,
+      "salePrice": null,
+      "ratings": 4
+    },
+    {
+      "id": 5,
+      "name": "Classic Man Watch",
+      "onSale": true,
+      "tags": ["Watch", "Men"],
+      "image": "https://images.pexels.com/photos/3210711/pexels-photo-3210711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa, possimus temporibus reprehenderit molestiae, doloribus eos obcaecati expedita, voluptatibus commodi  suscipit aliquid fuga modi alias fugiat nostrum. Accusantium incidunt quae modi",
+      "price": 500,
+      "salePrice": 400,
+      "ratings": 3.5
+    },
+    {
+      "id": 6,
+      "name": "LIGE Men Watches Waterproof",
+      "onSale": false,
+      "tags": ["Watch", "Men"],
+      "image": "https://www.deshify.com/images/thumbs/0015421_lige-men-watches-waterproof-multifunction-wrist-watch.jpeg",
+      "description": "LIGE Men Watches 2021 Luxury Brand Waterproof Calendar Diver Watch Quartz Movement Fashion Multifunction Wrist Watch.This is a fashionable sports quartz watch",
+      "price": 2550,
+      "salePrice": null ,
+      "ratings": 4.5
+    },
+    {
+      "id": 7,
+      "name": "Comfycush Old Skool Shoes",
+      "onSale": false,
+      "tags": ["Shoes", "Men"],
+      "image": "https://www.deshify.com/images/thumbs/0015421_lige-men-watches-waterproof-multifunction-wrist-watch.jpeg",
+      "description": "LIGE Men Watches 2021 Luxury Brand Waterproof Calendar Diver Watch Quartz Movement Fashion Multifunction Wrist Watch.This is a fashionable sports quartz watch",
+      "price": 2550,
+      "salePrice": null ,
+      "ratings": 4.5
+    }
+  ]
